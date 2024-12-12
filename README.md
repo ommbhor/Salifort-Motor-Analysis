@@ -1,9 +1,11 @@
 # Salifort-Motor-Analysis
-**Google Advanced Data Analytics Course Capstone Project.**
+Google Advanced Data Analytics Course Capstone Project.
+
 ---
 ## Activity Overview
 
 In this activity, I will showcase your ability to use Python for model building and data analysis. You will deploy different models to analyze a dataset and generate business insights for my stakeholders. In particular, I will build and evaluate a logistic regression model or the following machine learning models: decision tree, random forest. I will also update my stakeholders through an executive summary, demonstrating my ability to organize and communicate key information. 
+
 ---
 ## Scenario
 I am a data professional working for Salifort Motors. <br>
