@@ -16,4 +16,5 @@ As a first step, the leadership team asks Human Resources to survey a sample of 
 Next, the leadership team asks me to analyze the survey data and come up with ideas for how to increase employee retention. To help with this, they suggest me design a model that predicts whether an employee will leave the company based on their job title, department, number of projects, average monthly hours, and any other relevant data points. A good model will help the company increase retention and job satisfaction for current employees, and save money and time training new employees. 
 
 As a specialist in data analysis, the leadership team leaves it up to me to choose an approach for building the most effective model to predict employee departure. For example, you could build and evaluate a statistical model such as logistic regression. Or, you could build and evaluate machine learning models such as decision tree, random forest. Or, you could choose to deploy both statistical and machine learning models. 
+
 ---
